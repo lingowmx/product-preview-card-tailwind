@@ -11,6 +11,10 @@ export default {
         grey: 'hsl(228, 12%, 48%)', 
         cream: 'hsl(30, 38%, 92%)',
         white: 'hsl(0, 0%, 100%)',
+      },
+      fontFamily:{
+        montserrat:["Montserrat", "sans-serif"],
+        fraunces:["Fraunces", "sans-serif"]
       }
     },
   },
